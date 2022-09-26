@@ -1,0 +1,16 @@
+      "image": "",
+      "wiki": "",
+      "product": "https://www.bunnings.com.au/arlec-white-grid-connect-smart-plug-in-socket-with-energy-meter_p0273367"
+    },
+    {
+      "vendor": "Arlec Grid Connect",
+      "name": "Arlec Grid Connect Smart Plug with Power Monitoring (PC191HA)",
+      "chip": "BK7231T + BL0937",
+      "pins": {
+        "6": "Rel;0",
+        "7": "BL0937CF;0",
+        "8": "BL0937CF1;0",
+        "10": "Btn;0"
+        "24": "BL0937SEL;0"
+        "26": "LED;0"
+      }
